@@ -11,9 +11,9 @@ const { DexareClient } = require('dexare');
 const SlashCreateModule = require('@dexare/slash-create');
 
 const config = {
-  // All props in this config are optional, defaults are shown unless told otherwise
+  // All props in this config are optional EXCEPT applicationID, defaults are shown unless told otherwise
   slashCreate: {
-    // This is required
+    // This must be your bot application's ID
     applicationID: '1234567890',
 
     /**
