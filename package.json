@@ -34,7 +34,7 @@
     "@discordjs/collection": "^0.2.0",
     "dexare": "^2.0.1",
     "lodash.uniq": "^4.5.0",
-    "slash-create": "^3.3.0"
+    "slash-create": "^4.0.1"
   },
   "devDependencies": {
     "@types/lodash.uniq": "^4.5.6",
